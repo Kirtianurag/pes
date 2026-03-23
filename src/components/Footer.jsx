@@ -89,7 +89,7 @@ const Footer = () => {
               <motion.a
                 whileHover={{ y: -4 }}
                 whileTap={{ scale: 0.9 }}
-                href="https://linkedin.com"
+                href="https://www.linkedin.com/in/kirti-anurag/"
                 target="_blank"
                 className="p-3 bg-white/80 backdrop-blur rounded-lg shadow hover:shadow-purple-300 transition"
               >
@@ -110,7 +110,7 @@ const Footer = () => {
               <motion.a
                 whileHover={{ y: -4 }}
                 whileTap={{ scale: 0.9 }}
-                href="https://instagram.com"
+                href="https://www.instagram.com/_rissshiiii"
                 target="_blank"
                 className="p-3 bg-white/80 backdrop-blur rounded-lg shadow hover:shadow-purple-300 transition"
               >
